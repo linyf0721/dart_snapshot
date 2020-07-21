@@ -1,3 +1,5 @@
+# 跳过flutter私有库发布验证
+
 # 使用方法
 
 1、把文件拷贝到dart-sdk/bin/snapshots中
